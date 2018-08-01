@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="question1">flush() method is a method used to clear all the data present in output buffers. True or False</string>
+    <string name="question2">A _______ is a software endpoint that establishes bidirectional communication between a server program and one or more client programs.</string>
+    <string name="question3">These are the Java classes that can generate dynamic HTML content using print statements.</string>
+
+    <string name="option1_Q1">True</string>
+    <string name="option2_Q1">False</string>
+
+    <string name="option1_Q2">thread</string>
+    <string name="option2_Q2">socket</string>
+    <string name="option3_Q2">network</string>
+    <string name="option4_Q2">protocol</string>
+
+    
+</resources>
